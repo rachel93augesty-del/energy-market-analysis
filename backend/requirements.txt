@@ -1,0 +1,14 @@
+# Backend
+Flask==2.3.3
+flask-cors==3.1.2
+pandas==2.1.1
+numpy==1.27.5
+requests==2.32.0
+
+# Frontend (Dash)
+dash==2.11.1
+dash-bootstrap-components==1.4.1
+plotly==6.9.0
+
+# Optional: for better dev experience
+gunicorn==21.2.0  # Only if deploying in production
