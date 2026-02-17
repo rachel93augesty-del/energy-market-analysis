@@ -5,10 +5,3 @@ seaborn>=0.12
 jupyter>=1.0
 jupyterlab>=4.2
 scipy>=1.11
-
-#task 2:
-pymc>=5.0
-arviz>=0.16
-pytensor>=2.0 
-xarray 
-graphviz
